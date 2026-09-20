@@ -2,6 +2,8 @@
 
 Simple util for automatically merging all ImgBot PRs across all your account.
 
+![](demo.png)
+
 ## How to run it
 
 1. `git clone` this repo, or just download the `.ps1` file.

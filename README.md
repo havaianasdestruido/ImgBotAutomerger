@@ -5,7 +5,7 @@
 1. `git clone` this repo, or just download the `.ps1` file.
 2. Run it from PowerShell:
    ```powershell
-   .\merge-imgbot.ps1
+   .\merge.ps1
    ```
 3. If you get an execution policy error, run PowerShell as admin once and allow local scripts:
    ```powershell
